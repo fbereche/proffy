@@ -21,5 +21,36 @@ Proffy is an online study platform that connects teachers with students. It was 
 - NPM or Yarn
 - Expo
 
+## Installation
+
+Clone the repository:
+
+```sh
+  $ git clone https://github.com/fbereche/proffy.git
+```
+
+Setup the server
+
+```sh
+  $ cd server
+  $ yarn
+  $ yarn knex:migrate
+  $ yarn start
+```
+Setup the web app
+
+```
+  $ cd web
+  $ yarn
+  $ yarn start
+```
+Setup the mobile app
+```
+  $ cd mobile
+  $ yarn
+  $ yarn start
+```
+
+
 ## License
 This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/fbereche/proffy/blob/master/LICENSE.md) here.
