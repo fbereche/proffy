@@ -17,7 +17,7 @@ Proffy is an online study platform that connects teachers with students. It was 
 - Expo
 
 ## License
-This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/fbereche/proffy/blob/master/LICENSE) here.
+This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/fbereche/proffy/blob/master/LICENSE.md) here.
 
 
 [BADGE_WEB_REACT]: https://img.shields.io/badge/web-react-blue
